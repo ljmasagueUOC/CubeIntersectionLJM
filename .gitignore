@@ -3,3 +3,7 @@
 ################################################################################
 
 /CubeIntersectionLJM/bin/Debug/netstandard2.0
+/CubeIntersectionLJM/.vs/CubeIntersectionLJM
+/CubeIntersectionLJM/obj
+/CubeIntersectionLJMTests/bin/Debug/netcoreapp3.1
+/CubeIntersectionLJMTests/obj
